@@ -1,5 +1,5 @@
 homepage: "https://slideruletech.com/"
 documentation: "https://github.com/kmclaugh/gtm-segment-template"
 versions:
-  - sha: 8f8255fe87532768109d576874d4da7c655da2e6
+  - sha: fd914d5cf82c2a98b7817013126f29ce6217da4b
     changeNotes: Initial release or the template.
