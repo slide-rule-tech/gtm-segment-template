@@ -33,6 +33,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "SELECT",
     "name": "call",
     "displayName": "Call",
+    "categories": ["ANALYTICS", "TAG_MANAGEMENT"],
     "macrosInSelect": false,
     "selectItems": [
       {
